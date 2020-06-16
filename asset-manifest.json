@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/web_resume/static/css/main.ee6d1070.chunk.css",
+    "main.js": "/web_resume/static/js/main.49a14db0.chunk.js",
+    "main.js.map": "/web_resume/static/js/main.49a14db0.chunk.js.map",
+    "runtime-main.js": "/web_resume/static/js/runtime-main.eb5ea97d.js",
+    "runtime-main.js.map": "/web_resume/static/js/runtime-main.eb5ea97d.js.map",
+    "static/js/2.8524ccc4.chunk.js": "/web_resume/static/js/2.8524ccc4.chunk.js",
+    "static/js/2.8524ccc4.chunk.js.map": "/web_resume/static/js/2.8524ccc4.chunk.js.map",
+    "index.html": "/web_resume/index.html",
+    "precache-manifest.31342895d3d8902409bb23e6aeb8def8.js": "/web_resume/precache-manifest.31342895d3d8902409bb23e6aeb8def8.js",
+    "service-worker.js": "/web_resume/service-worker.js",
+    "static/css/main.ee6d1070.chunk.css.map": "/web_resume/static/css/main.ee6d1070.chunk.css.map",
+    "static/js/2.8524ccc4.chunk.js.LICENSE.txt": "/web_resume/static/js/2.8524ccc4.chunk.js.LICENSE.txt",
+    "static/media/IMG-20190503-WA0058.jpg": "/web_resume/static/media/IMG-20190503-WA0058.dc1833f1.jpg",
+    "static/media/appleclone.jfif": "/web_resume/static/media/appleclone.edebc356.jfif",
+    "static/media/bcci_clone.jfif": "/web_resume/static/media/bcci_clone.bf28cefb.jfif",
+    "static/media/bookmyshow_clone.jfif": "/web_resume/static/media/bookmyshow_clone.0c6fb746.jfif",
+    "static/media/claro-agroAnalysis.jfif": "/web_resume/static/media/claro-agroAnalysis.0d0dffc8.jfif",
+    "static/media/claro-agroform.jfif": "/web_resume/static/media/claro-agroform.95234b15.jfif",
+    "static/media/claro-farmer.jfif": "/web_resume/static/media/claro-farmer.a750a569.jfif",
+    "static/media/claro-hc.jfif": "/web_resume/static/media/claro-hc.ce4f60b1.jfif",
+    "static/media/claro-home.jfif": "/web_resume/static/media/claro-home.a704be98.jfif",
+    "static/media/claro-iaas.jfif": "/web_resume/static/media/claro-iaas.2b76d4be.jfif",
+    "static/media/claro-mandiDashboard.jfif": "/web_resume/static/media/claro-mandiDashboard.2fb7aa5d.jfif",
+    "static/media/claro-rms.jfif": "/web_resume/static/media/claro-rms.3e0efe27.jfif",
+    "static/media/entry.jfif": "/web_resume/static/media/entry.fcc22b8f.jfif",
+    "static/media/gaming.jfif": "/web_resume/static/media/gaming.5d73efa1.jfif",
+    "static/media/iitbact.png": "/web_resume/static/media/iitbact.e1011214.png",
+    "static/media/logo.svg": "/web_resume/static/media/logo.ee7cd8ed.svg",
+    "static/media/ogt.jfif": "/web_resume/static/media/ogt.5e4fe600.jfif",
+    "static/media/sabjiwalababa.jpg": "/web_resume/static/media/sabjiwalababa.57e8b869.jpg",
+    "static/media/sabjiwalababaAdmin.jpg": "/web_resume/static/media/sabjiwalababaAdmin.18eeee06.jpg",
+    "static/media/vendor.jfif": "/web_resume/static/media/vendor.4871068f.jfif",
+    "static/media/wynkClone.jfif": "/web_resume/static/media/wynkClone.6641804f.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb5ea97d.js",
+    "static/js/2.8524ccc4.chunk.js",
+    "static/css/main.ee6d1070.chunk.css",
+    "static/js/main.49a14db0.chunk.js"
+  ]
+}
